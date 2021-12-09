@@ -1,0 +1,3 @@
+prepend-non-duplicate;@PATH_ENV_VAR_NAME@;@PATH_ENV_VAR_VALUE@
+prepend-non-duplicate;@QT_ENV_VAR_NAME@;@QT_ENV_VAR_VALUE@
+prepend-non-duplicate;@QT_PLATFORM_ENV_VAR_NAME@;@QT_PLATFORM_ENV_VAR_VALUE@
